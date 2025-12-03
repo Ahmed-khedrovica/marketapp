@@ -2,6 +2,19 @@
 
 A modern and beautifully designed **E-Commerce mobile application** built using **Flutter**.
 
+## 📌 Project Overview
+
+This Flutter application simulates the core features of an online store.  
+Users can:
+
+- Browse products across categories  
+- Search for specific items  
+- Add/remove items from Favorites  
+- View detailed product information  
+- Add items to the cart and edit quantities  
+- View a bill summary before checkout  
+- Navigate through Login & Registration screens
+
 ---
 
 ## 📸 Screenshots
